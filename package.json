@@ -6,7 +6,7 @@
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "git@github.com:angrytoro/fekit-extension-kjtest.git"
     },
     "keywords": [
         "fekit-plugin",
