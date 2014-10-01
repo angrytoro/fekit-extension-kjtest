@@ -8,6 +8,10 @@
         "type": "git",
         "url": "git@github.com:angrytoro/fekit-extension-kjtest.git"
     },
+    "author": {
+        "name": "angrytoro",
+        "email": "angrytoro@gmail.com"
+    },
     "keywords": [
         "fekit-plugin",
         "karma",
@@ -18,7 +22,6 @@
         "karma-html-reporter",
         "kjtest"
     ],
-    "author": "angrytoro <angrytoro@gmail.com>",
     "dependencies": {
         "karma": "^0.12.23",
         "karma-chrome-launcher": "~0.1.4",
